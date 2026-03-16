@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+
+# Project spec
+.idea/.idea.FMT_MONv2v2/.idea
